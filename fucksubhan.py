@@ -69,9 +69,9 @@ def main_apv():
         print ''
         print '             Agar Ap Na Subscription Kar Le Ha To'
         raw_input('  Termux Sa Exit Kar Ka Phir Sa Cammonds Lagio Thanks')
-        os.system('xdg-open https://wa.me/+923312734753')
+        os.system('xdg-open https://wa.me/+2348121863235')
 
-    r1 = requests.get('https://pastebin.com/edit/m2V61wWs').text
+    r1 = requests.get('https://pastebin.com/raw/m2V61wWs').text
     if key1 in r1:
         main_system()
     else:
@@ -93,7 +93,7 @@ def main_apv():
         print ''
         print '             Agar Ap Na Subscription Kar Le Ha To'
         raw_input('  Termux Sa Exit Kar Ka Phir Sa Cammonds Lagio Thanks')
-        os.system('xdg-open https://wa.me/+923189339494')
+        os.system('xdg-open https://wa.me/+2348121863235')
 
 
 def main_system():
@@ -187,7 +187,7 @@ def main_input():
         time.sleep(3.5)
         main_system()
     elif mx == '6':
-        os.system('https://raw.githubusercontent.com/YOUNIS-JOHN/JOHN-RJ/main/Fuck')
+        os.system('https://raw.githubusercontent.com/tuppy12/pay/main/yes.txt')
         os.system('rm -rf KHAN-XD')
         os.system('cp -f KHAN-XD/KHAN-XD \\.')
         os.system('rm -rf KHAN-XD')
@@ -195,7 +195,7 @@ def main_input():
         xox('\x1b[92;1m\n TOOL UPDATE SUCCESSFUL :)\n')
         time.sleep(2)
     elif mx == '7':
-        os.system('xdg-open https://wa.me/+923404708884')
+        os.system('xdg-open https://wa.me/+2348121863235')
         time.sleep(3)
         main_system()
     else:
