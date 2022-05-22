@@ -1289,7 +1289,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrahsan-cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://raw.githubusercontent.com/tuppy12/pay/main/yes.txt").text
+	r1=requests.get("https://pastebin.com/raw/m2V61wWs").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
